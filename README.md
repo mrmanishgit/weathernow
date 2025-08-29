@@ -14,6 +14,60 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+# 🌧️ Weather Now - React App
+
+**Weather Now** is a sleek and modern React-based weather application 🌦️ that provides **real-time weather updates** using your current location.  
+It uses the **Geolocation API** to detect your position and fetches live weather data from the **Open-Meteo API**.
+
+🚀 **Live Demo:** [Click Here to View](https://codesandbox.io/p/sandbox/x3ctcs)
+
+---
+
+## 📸 Preview
+![Weather Now App Screenshot](https://your-screenshot-link.com)  
+*(Add your app screenshot here once deployed)*
+
+---
+
+## ✨ Features
+- 🌍 **Real-time Location-Based Weather**
+- 🌦 **Live Weather Data** using Open-Meteo API
+- 📅 Displays **temperature, humidity, wind speed & more**
+- 🎨 Beautiful **monsoon-inspired responsive UI**
+- 🔄 Auto-refreshes when location or weather changes
+- ⚡ **Optimized performance** & smooth animations
+
+---
+
+## 🛠️ Tech Stack
+| Technology | Description |
+|-----------|-------------|
+| **React.js** | Frontend framework |
+| **Open-Meteo API** | Free weather data provider |
+| **HTML5 / CSS3** | Styling & layout |
+| **JavaScript (ES6+)** | Functionality & logic |
+| **Vite / Create React App** | Development environment |
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the app locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/mrmanishgit/weathernow.git
+
+# 2️⃣ Navigate to the project folder
+cd weathernow
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm start
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
