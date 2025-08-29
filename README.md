@@ -54,7 +54,7 @@ It uses the **Geolocation API** to detect your position and fetches live weather
 
 Follow these steps to run the app locally:
 
-```bash
+``bash
 # 1️⃣ Clone the repository
 git clone https://github.com/mrmanishgit/weathernow.git
 
