@@ -24,7 +24,9 @@ It uses the **Geolocation API** to detect your position and fetches live weather
 ---
 
 ## 📸 Preview
-![Weather Now App Screenshot](https://your-screenshot-link.com)  
+![Weather Now App Screenshot]
+ <img width="1354" height="633" alt="Screenshot 2025-08-29 225150" src="https://github.com/user-attachments/assets/b73edf0f-4af8-4cf0-ab6a-4d2b0d5ee466" />
+
 *(Add your app screenshot here once deployed)*
 
 ---
